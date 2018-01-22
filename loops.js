@@ -1,6 +1,6 @@
 function forLoop(array){
   array = []
-  for(let i = 0; i < 25; i++){
+  for(let i = 0; i < 27; i++){
     if(i === 1){
     array.push(`I am ${i} strange loop.`)
     }
